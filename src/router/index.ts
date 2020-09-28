@@ -11,6 +11,10 @@ export default createRouter({
       component: () => import('../views/hello.vue'),
     },
     {
+      path: '/home',
+      component: () => import('../views/home.vue'),
+    },
+    {
       path: '/todolist',
       // 必须添加.vue后缀
       component: () => import('../views/todoList.vue'),

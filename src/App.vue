@@ -3,6 +3,7 @@
   <!-- <HelloWorld msg="Hello Vue 3.0 + Vite" /> -->
   <div></div>
   <router-link to="/">hello</router-link>&nbsp;
+  <router-link to="/home">home</router-link>&nbsp;
   <router-link to="/todoList">todoList</router-link>
   <router-view></router-view>
 
