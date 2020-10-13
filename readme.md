@@ -38,3 +38,5 @@ app.mount('#app')
 ```
 
 - 使用 Vue3.0 开发一个 TodoList 示例
+
+> 10.13 项目启动失败
